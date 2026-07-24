@@ -1,37 +1,90 @@
-# LauLey-LauLey
-# Laura Leyva
+# 👋 Hola, soy Laura Leyva
 
-Ingeniera en Sistemas Computacionales | Gestión Educativa | Análisis de Datos Educativos | Frontend Junior
+### Ingeniera en Sistemas Computacionales | Gestión Educativa | Frontend Developer Junior
 
-Soy Ingeniera en Sistemas Computacionales titulada con cédula profesional. Tengo experiencia en dirección de planteles, coordinación académica, control escolar, administración escolar y análisis de datos educativos para la toma de decisiones.
+Soy **Ingeniera en Sistemas Computacionales** titulada con cédula profesional y cuento con más de dos años de experiencia liderando equipos, coordinando procesos académicos y administrativos, y tomando decisiones basadas en indicadores educativos.
 
-Actualmente fortalezco mis habilidades en Desarrollo Web Frontend con HTML, CSS, JavaScript, Git, GitHub y diseño responsivo, mientras continúo desarrollando proyectos prácticos y mi portafolio profesional.
+Actualmente estoy enfocada en mi transición al **Desarrollo Web Frontend**, construyendo proyectos prácticos mientras continúo fortaleciendo mis conocimientos en tecnologías web modernas.
 
-## 🚀 Tecnologías
+---
 
-- HTML5
-- CSS3
+## 💻 Tecnologías
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+### También tengo experiencia con
+
+- Gestión educativa
+- Planeación estratégica
+- Control escolar
+- Liderazgo de equipos
+- Microsoft Excel
+- Microsoft Word
+- Google Workspace
+- Análisis de datos educativos
+
+---
+
+# 🚀 Proyectos Destacados
+
+### 🌐 About Me
+Mi primera página personal desarrollada con HTML y CSS.
+
+➡️ https://lauley.github.io/about_me/
+
+---
+
+### 🎮 Rock Paper Scissors
+
+Juego desarrollado con JavaScript para practicar lógica de programación.
+
+---
+
+### 🎨 Etch-a-Sketch
+
+Proyecto para practicar manipulación del DOM utilizando JavaScript.
+
+---
+
+## 📚 Actualmente aprendiendo
+
 - JavaScript
-- Git
-- GitHub
-- Visual Studio Code
+- DOM
 - Responsive Design
-- Flexbox
-- CSS Grid
+- Git & GitHub
+- Clean Code
+- Frontend Development
 
-## 📂 Proyectos destacados
+---
 
-- 🌐 Portafolio Web
-- 📖 About Me
-- 💻 Proyectos prácticos de Frontend
+## 🎯 Objetivo Profesional
 
-## 🎯 Actualmente
+Busco oportunidades como:
 
-- Desarrollando proyectos con JavaScript.
-- Buscando oportunidades como Frontend Developer Junior, Docente de Informática o Coordinadora Académica.
-- Estudiando inglés y fortaleciendo mis habilidades técnicas.
+- Frontend Developer Junior
+- Desarrolladora Web Junior
+- Docente de Informática
+- Coordinadora Académica
+- Analista Administrativo
 
-## 📫 Contacto
+---
 
-- 💼 LinkedIn: https://www.linkedin.com/in/laura-leyva/
-- 🌐 Portafolio: https://lauley.github.io/about_me/
+## 🌎 Contacto
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/laura-leyva/
+
+🌐 Portafolio
+
+https://lauley.github.io/about_me/
+
+📧
+
+lauraleyva20@hotmail.com
+
+---
+
+⭐ Gracias por visitar mi perfil.
