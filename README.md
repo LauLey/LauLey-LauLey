@@ -1,20 +1,18 @@
-# 👋 Hola, soy Laura Leyva
+# Laura Leyva
 
-### Ingeniera en Sistemas Computacionales | Gestión Educativa | Frontend Developer Junior
+**Ingeniera en Sistemas Computacionales | Gestión Educativa | Frontend Developer Junior**
 
-Soy **Ingeniera en Sistemas Computacionales** titulada con cédula profesional y cuento con más de dos años de experiencia liderando equipos, coordinando procesos académicos y administrativos, y tomando decisiones basadas en indicadores educativos.
+Soy Ingeniera en Sistemas Computacionales titulada con cédula profesional y cuento con experiencia en dirección de planteles, coordinación académica, control escolar, administración escolar y análisis de datos educativos para la toma de decisiones.
 
-Actualmente estoy enfocada en mi transición al **Desarrollo Web Frontend**, construyendo proyectos prácticos mientras continúo fortaleciendo mis conocimientos en tecnologías web modernas.
+Actualmente me enfoco en mi transición al Desarrollo Web Frontend, construyendo proyectos prácticos con HTML, CSS, JavaScript, Git y GitHub, mientras continúo fortaleciendo mis conocimientos técnicos y profesionales.
 
 ---
 
-## 💻 Tecnologías
+## Tecnologías
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
+HTML5 • CSS3 • JavaScript • Git • GitHub • Visual Studio Code • Responsive Design • Flexbox • CSS Grid
 
-### También tengo experiencia con
+## Experiencia adicional
 
 - Gestión educativa
 - Planeación estratégica
@@ -27,39 +25,33 @@ Actualmente estoy enfocada en mi transición al **Desarrollo Web Frontend**, con
 
 ---
 
-# 🚀 Proyectos Destacados
+## Proyectos destacados
 
-### 🌐 About Me
+### About Me
 Mi primera página personal desarrollada con HTML y CSS.
 
-➡️ https://lauley.github.io/about_me/
+https://lauley.github.io/about_me/
 
----
-
-### 🎮 Rock Paper Scissors
-
+### Rock Paper Scissors
 Juego desarrollado con JavaScript para practicar lógica de programación.
 
----
-
-### 🎨 Etch-a-Sketch
-
+### Etch-a-Sketch
 Proyecto para practicar manipulación del DOM utilizando JavaScript.
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - JavaScript
 - DOM
 - Responsive Design
-- Git & GitHub
+- Git y GitHub
 - Clean Code
 - Frontend Development
 
 ---
 
-## 🎯 Objetivo Profesional
+## Objetivo profesional
 
 Busco oportunidades como:
 
@@ -71,20 +63,8 @@ Busco oportunidades como:
 
 ---
 
-## 🌎 Contacto
+## Contacto
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/laura-leyva/
-
-🌐 Portafolio
-
-https://lauley.github.io/about_me/
-
-📧
-
-lauraleyva20@hotmail.com
-
----
-
-⭐ Gracias por visitar mi perfil.
+LinkedIn: https://www.linkedin.com/in/laura-leyva/  
+Portafolio: https://lauley.github.io/about_me/  
+Correo: lauraleyva20@hotmail.com
